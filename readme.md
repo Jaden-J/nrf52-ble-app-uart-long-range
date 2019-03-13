@@ -9,7 +9,7 @@ Requirements
 ------------
 - [nRF5 SDK version 14.2.0](http://developer.nordicsemi.com/nRF5_SDK/nRF5_SDK_v14.x.x/nRF5_SDK_14.2.0_17b948a.zip) 
 - [nRF52840-PDK](https://www.nordicsemi.com/eng/Products/nRF52840-Preview-DK) development kit 
-- Keil uVision or Segger Embedded Studio
+- Keil uVision or Segger Embedded Studio 3.34
 
 To compile it, clone the repository into the *\nRF5_SDK_14.2.0\examples\ble_central_and_peripheral\* folder.
 
